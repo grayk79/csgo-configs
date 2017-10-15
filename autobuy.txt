@@ -1,0 +1,74 @@
+// This list of "buy aliases" is used by the AutoBuy system.
+// The system begins with the first alias in the list, and attempts to purchase it.
+// If a primary weapon is successfully purchased, all later primary weapon aliases are skipped.
+// Similarly, secondary weapon buy alias are skipped once a seconary weapon has been purchased.
+// You can customize this file to reflect your weapon and equipment preferences and priorities.
+//
+// The console command for autobuy is "autobuy"
+//
+// The available buy aliases and their names as shown on the buy menu are:
+// (Many weapons have more than one buy alias)
+//
+// cz75a	       	- CZ75-Auto
+// deagle	      	- Desert Eagle
+// elite	      	- Dual Berettas
+// fiveseven	  	- Five-seveN
+// glock	      	- Glock-18
+// hkp2000	    	- P2000
+// p250	        	- P250
+// tec9	         	- Tec-9
+// usp_silencer 	- USP-S
+
+// mag7	         	- MAG-7
+// nova		        - Nova
+// sawedoff	  	  - Sawed-off
+// xm1014	      	- XM1014
+
+// bizon	       	- PP-Bizon
+// mac10	       	- Mac-10
+// mp7		      	- MP7
+// mp9		      	- MP9
+// p90		       	- P90
+// ump45	      	- UMP-45
+
+// ak47	         	- AK-47
+// aug		      	- AUG
+// famas	      	- FAMAS
+// galilar	     	- Galil AR
+// m4a1	        	- M4A4
+// m4a1_silencer  - M4A1-S
+// sg556	      	- SG 553
+
+// m249	        	- M249
+// negev	      	- Negev
+
+// awp		      	- AWP
+// g3sg1	      	- G3SG1
+// scar20		      - SCAR-20
+// ssg08		      - SSG08
+
+// vest		        - Kevlar
+// vesthelm		    - Kevlar+Helmet
+// molotov	    	- Molotov
+// incgrenade	  	- Incendiary Grenade
+// flashbang		  - Flashbang
+// hegrenade		  - HE Grenade
+// smokegrenade 	- Smoke Grenade
+// decoy	       	- Decoy
+// defuser	    	- Defusal Kit
+// taser		      - Taser
+
+vesthelm
+vest
+m4a1
+ak47
+famas
+galilar
+ump45
+flashbang
+smokegrenade
+defuser
+hegrenade
+flashbang
+fiveseven
+p250
